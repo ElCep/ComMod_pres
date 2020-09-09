@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/delaye/github/ComMod_pres/img/ComMod_histoire.png"
+   sodipodi:docname="ComMod_histoire.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 302.11978 104.96407"
+   height="104.96407mm"
+   width="302.11978mm">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path838" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="1366"
+     inkscape:window-height="1052"
+     inkscape:window-width="1920"
+     fit-margin-bottom="10"
+     fit-margin-right="10"
+     fit-margin-left="10"
+     lock-margins="true"
+     fit-margin-top="10"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="113.21652"
+     inkscape:cx="576.63133"
+     inkscape:zoom="0.98994949"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-6.0690952,-22.738091)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Calque 1">
+    <path
+       sodipodi:nodetypes="cc"
+       id="path833"
+       d="M 23.379064,47.037527 H 296.70372"
+       style="fill:none;stroke:#000000;stroke-width:0.765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)" />
+    <text
+       id="text1143"
+       y="40.457783"
+       x="15.293948"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:Pomodoro;-inkscape-font-specification:Pomodoro;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:7.05556px;stroke-width:0.264583"
+         y="40.457783"
+         x="15.293948"
+         id="tspan1141"
+         sodipodi:role="line">1990</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:Pomodoro;-inkscape-font-specification:Pomodoro;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="75.427116"
+       y="37.97464"
+       id="text1143-9"><tspan
+         sodipodi:role="line"
+         id="tspan1141-1"
+         x="75.427116"
+         y="37.97464"
+         style="font-size:7.05556px;stroke-width:0.264583">2000</tspan></text>
+    <text
+       id="text1143-2-0"
+       y="40.457783"
+       x="196.85294"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:Pomodoro;-inkscape-font-specification:Pomodoro;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:7.05556px;stroke-width:0.264583"
+         y="40.457783"
+         x="196.85294"
+         id="tspan1141-7-9"
+         sodipodi:role="line">2010</tspan></text>
+    <g
+       id="g1237">
+      <circle
+         style="fill:#000000;stroke:#ffffff;stroke-width:0.765;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path1219"
+         cx="26.629206"
+         cy="46.839798"
+         r="2.2973044" />
+      <path
+         sodipodi:nodetypes="cc"
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 26.590013,48.262682 V 97.994533"
+         id="path1221" />
+    </g>
+    <text
+       id="text1225"
+       y="102.8855"
+       x="25.753859"
+       style="font-size:2.82222px;line-height:1.25;font-family:'WalbaumGrotesk Text';-inkscape-font-specification:'WalbaumGrotesk Text';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:2.82222px;stroke-width:0.264583"
+         y="102.8855"
+         x="25.753859"
+         id="tspan1223"
+         sodipodi:role="line">UR GREEN (Cirad)</tspan><tspan
+         id="tspan1227"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         y="106.41328"
+         x="25.753859"
+         sodipodi:role="line">1. modéliser interactions entre dynamiques</tspan><tspan
+         id="tspan1229"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         y="109.94105"
+         x="25.753859"
+         sodipodi:role="line">socio-économiques et écologiques</tspan><tspan
+         id="tspan1231"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         y="113.46883"
+         x="25.753859"
+         sodipodi:role="line">2. processus d’interactions entre acteurs</tspan><tspan
+         id="tspan1233"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         y="116.9966"
+         x="25.753859"
+         sodipodi:role="line">ayant représentations et poids différents</tspan></text>
+    <g
+       transform="translate(13.947949,0.24501495)"
+       id="g1237-2">
+      <circle
+         r="2.2973044"
+         cy="46.839798"
+         cx="26.629206"
+         id="path1219-0"
+         style="fill:#000000;stroke:#ffffff;stroke-width:0.765;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="path1221-5"
+         d="M 26.590013,48.262682 V 71.812054"
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <text
+       id="text1262"
+       y="77.703575"
+       x="36.663803"
+       style="font-size:2.82222px;line-height:1.25;font-family:'WalbaumGrotesk Text';-inkscape-font-specification:'WalbaumGrotesk Text';letter-spacing:0px;word-spacing:0px;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:2.82222px;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="77.703575"
+         x="36.663803"
+         id="tspan1260"
+         sodipodi:role="line">Formalisation</tspan><tspan
+         id="tspan1268"
+         style="font-size:2.82222px;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="81.231354"
+         x="36.663803"
+         sodipodi:role="line">1. Méthodologie</tspan><tspan
+         id="tspan1272"
+         style="font-size:2.82222px;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="84.759125"
+         x="36.663803"
+         sodipodi:role="line">2. Développement plate-forme CORMAS</tspan></text>
+    <g
+       id="g1237-2-5"
+       transform="translate(49.302876,-0.05054952)">
+      <circle
+         style="fill:#000000;stroke:#ffffff;stroke-width:0.765;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path1219-0-2"
+         cx="26.629206"
+         cy="46.839798"
+         r="2.2973044" />
+      <path
+         sodipodi:nodetypes="cc"
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 26.590013,48.262682 V 65.689479"
+         id="path1221-5-9" />
+    </g>
+    <g
+       transform="translate(65.869835,0.30890794)"
+       id="g1237-2-5-2">
+      <circle
+         r="2.2973044"
+         cy="46.839798"
+         cx="26.629206"
+         id="path1219-0-2-8"
+         style="fill:#000000;stroke:#ffffff;stroke-width:0.765;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="path1221-5-9-3"
+         d="M 26.590013,48.262682 V 97.324035"
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <text
+       id="text1290"
+       y="69.26532"
+       x="74.868156"
+       style="font-size:2.82222px;line-height:1.25;font-family:'WalbaumGrotesk Text';-inkscape-font-specification:'WalbaumGrotesk Text';letter-spacing:0px;word-spacing:0px;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:2.82222px;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="69.26532"
+         x="74.868156"
+         id="tspan1288"
+         sodipodi:role="line">1999 : Intégration d’un </tspan><tspan
+         id="tspan1292"
+         style="font-size:2.82222px;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="72.793098"
+         x="74.868156"
+         sodipodi:role="line">nouvel outil, le jeu de rôles</tspan></text>
+    <text
+       id="text1340"
+       y="100.73219"
+       x="91.181465"
+       style="font-size:2.82222px;line-height:1.25;font-family:'WalbaumGrotesk Text';-inkscape-font-specification:'WalbaumGrotesk Text';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:2.82222px;stroke-width:0.264583"
+         y="100.73219"
+         x="91.181465"
+         id="tspan1338"
+         sodipodi:role="line">2002 Naissance du réseau ComMod</tspan><tspan
+         id="tspan1348"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         y="104.25997"
+         x="91.181465"
+         sodipodi:role="line">Inter-institutionnel (Irstea, Cirad, CNRS, INRA, IRD, etc.)</tspan><tspan
+         id="tspan1350"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         y="107.78774"
+         x="91.181465"
+         sodipodi:role="line">International (timidement...)</tspan><tspan
+         id="tspan1352"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         y="111.31552"
+         x="91.181465"
+         sodipodi:role="line">Pluri-disciplinaire</tspan><tspan
+         id="tspan1360"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:'WalbaumGrotesk Text';-inkscape-font-specification:'WalbaumGrotesk Text Bold';stroke-width:0.264583"
+         y="115.1541"
+         x="91.181465"
+         sodipodi:role="line">Elaboration d’une charte collective (2003, 2005, 2013)</tspan></text>
+    <text
+       id="text1364"
+       y="54.661964"
+       x="128.60692"
+       style="font-size:3.175px;line-height:1.25;font-family:'WalbaumGrotesk Text';-inkscape-font-specification:'WalbaumGrotesk Text';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="54.661964"
+         x="128.60692"
+         id="tspan1362"
+         sodipodi:role="line">2006-2009 Projet ANR Agriculture et Développement Durable</tspan><tspan
+         id="tspan1366"
+         style="stroke-width:0.264583"
+         y="58.630714"
+         x="128.60692"
+         sodipodi:role="line">évaluation ex-post ou chemin-faisant (30 de cas)</tspan><tspan
+         id="tspan1368"
+         style="stroke-width:0.264583"
+         y="62.599464"
+         x="128.60692"
+         sodipodi:role="line">évaluer la capacité de la modélisation d’accompagnement</tspan><tspan
+         id="tspan1415"
+         style="stroke-width:0.264583"
+         y="66.568214"
+         x="128.60692"
+         sodipodi:role="line">à atteindre un objectif de décision collective</tspan><tspan
+         id="tspan1372"
+         style="stroke-width:0.264583"
+         y="70.536964"
+         x="128.60692"
+         sodipodi:role="line" /></text>
+    <rect
+       ry="1.4041402"
+       y="44.577324"
+       x="128.10872"
+       height="5.1953726"
+       width="70.690765"
+       id="rect1417"
+       style="fill:#000000;stroke:#ffffff;stroke-width:0.304045;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       transform="translate(179.7385,0.26715531)"
+       id="g1237-2-5-1">
+      <circle
+         r="2.2973044"
+         cy="46.839798"
+         cx="26.629206"
+         id="path1219-0-2-9"
+         style="fill:#000000;stroke:#ffffff;stroke-width:0.765;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="path1221-5-9-6"
+         d="M 26.590013,48.262682 V 65.689479"
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <text
+       id="text1442"
+       y="70.174164"
+       x="205.18767"
+       style="font-size:3.175px;line-height:1.25;font-family:'WalbaumGrotesk Text';-inkscape-font-specification:'WalbaumGrotesk Text';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="70.174164"
+         x="205.18767"
+         id="tspan1440"
+         sodipodi:role="line">Création de l’Association ComMod</tspan></text>
+    <g
+       id="g1237-2-5-1-2"
+       transform="translate(246.61917,0.41194795)">
+      <circle
+         style="fill:#000000;stroke:#ffffff;stroke-width:0.765;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path1219-0-2-9-5"
+         cx="26.629206"
+         cy="46.839798"
+         r="2.2973044" />
+      <path
+         sodipodi:nodetypes="cc"
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 26.590013,48.262682 V 65.689479"
+         id="path1221-5-9-6-4" />
+    </g>
+    <text
+       id="text1479"
+       y="71.564682"
+       x="270.92358"
+       style="font-size:3.175px;line-height:1.25;font-family:'WalbaumGrotesk Text';-inkscape-font-specification:'WalbaumGrotesk Text';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="71.564682"
+         x="270.92358"
+         id="tspan1477"
+         sodipodi:role="line">ComExp</tspan></text>
+  </g>
+</svg>

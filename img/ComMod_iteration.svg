@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/delaye/github/ComMod_pres/img/ComMod_iteration.png"
+   sodipodi:docname="ComMod_iteration.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 204.27324 84.48645"
+   height="84.48645mm"
+   width="204.27324mm">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient1210"
+       inkscape:collect="always">
+      <stop
+         id="stop1206"
+         offset="0"
+         style="stop-color:#9c9c9c;stop-opacity:1;" />
+      <stop
+         id="stop1208"
+         offset="1"
+         style="stop-color:#9c9c9c;stop-opacity:0;" />
+    </linearGradient>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path907" />
+    </marker>
+    <linearGradient
+       gradientTransform="matrix(0.90244989,0,0,1.0001921,0.71466803,5.8086955)"
+       gradientUnits="userSpaceOnUse"
+       y2="60.01432"
+       x2="44.638058"
+       y1="42.399601"
+       x1="44.638058"
+       id="linearGradient1212"
+       xlink:href="#linearGradient1210"
+       inkscape:collect="always" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="1366"
+     inkscape:window-height="1052"
+     inkscape:window-width="1920"
+     fit-margin-bottom="5"
+     fit-margin-right="5"
+     fit-margin-left="5"
+     lock-margins="true"
+     fit-margin-top="5"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="134.20877"
+     inkscape:cx="383.91395"
+     inkscape:zoom="1.4"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <sodipodi:guide
+       id="guide833"
+       orientation="0,-1"
+       position="-25.563772,70.868453" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(52.123375,-11.299405)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Calque 1">
+    <rect
+       ry="0"
+       y="47.33329"
+       x="-48.275295"
+       height="43.326683"
+       width="193.0148"
+       id="rect1204"
+       style="fill:url(#linearGradient1212);fill-opacity:1;stroke:#ffffff;stroke-width:0.251766;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       sodipodi:nodetypes="csccc"
+       id="path851"
+       d="M -12.561668,24.917401 C 0,24.917401 25.169254,38.494202 24.994406,49.979389 24.856065,59.066561 24.856065,64.81847 12.294398,65.411946 0,64.472093 0,59.909459 0.13833391,49.979389 0,37.53431 24.856065,24.917401 37.556073,24.9174"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 37.556073,24.9174 c 12.561668,0 37.730922,13.576802 37.556075,25.061989 -0.138343,9.087173 -0.138343,14.83908 -12.700009,15.432556 C 50.117741,64.472092 50.117741,59.909458 50.256075,49.979389 50.117741,37.53431 74.973805,24.9174 87.673816,24.917399"
+       id="path851-3"
+       sodipodi:nodetypes="csccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 87.673816,24.917399 c 12.561664,0 37.730924,13.576802 37.556074,25.061989 -0.13834,9.087173 -0.13834,14.83908 -12.7,15.432556 -12.29441,-0.939853 -12.29441,-5.502487 -12.15607,-15.432556 -0.13834,-12.445079 24.71773,-25.061989 37.41774,-25.06199"
+       id="path851-6"
+       sodipodi:nodetypes="csccc" />
+    <text
+       id="text882"
+       y="19.202391"
+       x="-47.339275"
+       style="font-size:3.175px;line-height:1.25;font-family:'WalbaumGrotesk Text';-inkscape-font-specification:'WalbaumGrotesk Text';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'WalbaumGrotesk Text';-inkscape-font-specification:'WalbaumGrotesk Text Bold';stroke-width:0.264583"
+         y="19.202391"
+         x="-47.339275"
+         id="tspan880"
+         sodipodi:role="line">Monde réel</tspan></text>
+    <text
+       id="text886"
+       y="68.400345"
+       x="-46.390511"
+       style="font-size:3.175px;line-height:1.25;font-family:'WalbaumGrotesk Text';-inkscape-font-specification:'WalbaumGrotesk Text';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'WalbaumGrotesk Text';-inkscape-font-specification:'WalbaumGrotesk Text Bold';stroke-width:0.264583"
+         y="68.400345"
+         x="-46.390511"
+         id="tspan884"
+         sodipodi:role="line">Modèle</tspan></text>
+    <text
+       id="text890"
+       y="20.836168"
+       x="-16.0002"
+       style="font-size:3.175px;line-height:1.25;font-family:'WalbaumGrotesk Text';-inkscape-font-specification:'WalbaumGrotesk Text';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="20.836168"
+         x="-16.0002"
+         id="tspan888"
+         sodipodi:role="line">Question</tspan></text>
+    <text
+       id="text894"
+       y="19.304083"
+       x="27.942533"
+       style="font-size:3.175px;line-height:1.25;font-family:'WalbaumGrotesk Text';-inkscape-font-specification:'WalbaumGrotesk Text';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="19.304083"
+         x="27.942533"
+         id="tspan892"
+         sodipodi:role="line">Validation</tspan></text>
+    <text
+       id="text898"
+       y="19.459972"
+       x="79.721283"
+       style="font-size:3.175px;line-height:1.25;font-family:'WalbaumGrotesk Text';-inkscape-font-specification:'WalbaumGrotesk Text';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="19.459972"
+         x="79.721283"
+         id="tspan896"
+         sodipodi:role="line">Explicitation</tspan></text>
+    <text
+       id="text902"
+       y="18.591755"
+       x="132.13216"
+       style="font-size:3.175px;line-height:1.25;font-family:'WalbaumGrotesk Text';-inkscape-font-specification:'WalbaumGrotesk Text';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="18.591755"
+         x="132.13216"
+         id="tspan900"
+         sodipodi:role="line">Application</tspan></text>
+    <text
+       id="text1182"
+       y="72.163307"
+       x="2.9784541"
+       style="font-size:3.175px;line-height:1.25;font-family:'WalbaumGrotesk Text';-inkscape-font-specification:'WalbaumGrotesk Text';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="72.163307"
+         x="2.9784541"
+         id="tspan1180"
+         sodipodi:role="line">Conception</tspan></text>
+    <text
+       id="text1186"
+       y="71.6409"
+       x="55.414761"
+       style="font-size:3.175px;line-height:1.25;font-family:'WalbaumGrotesk Text';-inkscape-font-specification:'WalbaumGrotesk Text';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="71.6409"
+         x="55.414761"
+         id="tspan1184"
+         sodipodi:role="line">Jeu de rôle</tspan></text>
+    <text
+       id="text1190"
+       y="72.241707"
+       x="109.11303"
+       style="font-size:3.175px;line-height:1.25;font-family:'WalbaumGrotesk Text';-inkscape-font-specification:'WalbaumGrotesk Text';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="72.241707"
+         x="109.11303"
+         id="tspan1188"
+         sodipodi:role="line">simulation</tspan></text>
+    <text
+       id="text1194"
+       y="89.65155"
+       x="110.20295"
+       style="font-size:2.82222px;line-height:1.25;font-family:'WalbaumGrotesk Text';-inkscape-font-specification:'WalbaumGrotesk Text';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:2.82222px;stroke-width:0.264583"
+         y="89.65155"
+         x="110.20295"
+         id="tspan1192"
+         sodipodi:role="line">(D'Aquont et al., 2001)</tspan></text>
+  </g>
+</svg>
