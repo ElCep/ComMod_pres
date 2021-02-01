@@ -12,7 +12,7 @@
    inkscape:export-xdpi="150"
    inkscape:export-filename="/home/delaye/github/ComMod_pres/img/ComMod_iteration.png"
    sodipodi:docname="ComMod_iteration.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    id="svg8"
    version="1.1"
    viewBox="0 0 204.27324 84.48645"
@@ -59,10 +59,10 @@
   </defs>
   <sodipodi:namedview
      inkscape:window-maximized="1"
-     inkscape:window-y="0"
-     inkscape:window-x="1366"
-     inkscape:window-height="1052"
-     inkscape:window-width="1920"
+     inkscape:window-y="54"
+     inkscape:window-x="104"
+     inkscape:window-height="2338"
+     inkscape:window-width="4280"
      fit-margin-bottom="5"
      fit-margin-right="5"
      fit-margin-left="5"
@@ -74,9 +74,9 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="134.20877"
-     inkscape:cx="383.91395"
-     inkscape:zoom="1.4"
+     inkscape:cy="156.38945"
+     inkscape:cx="379.68354"
+     inkscape:zoom="3.959798"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -86,7 +86,8 @@
     <sodipodi:guide
        id="guide833"
        orientation="0,-1"
-       position="-25.563772,70.868453" />
+       position="-25.563772,70.868453"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -96,7 +97,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -231,12 +232,12 @@
        id="text1194"
        y="89.65155"
        x="110.20295"
-       style="font-size:2.82222px;line-height:1.25;font-family:'WalbaumGrotesk Text';-inkscape-font-specification:'WalbaumGrotesk Text';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       style="font-size:2.82222009px;line-height:1.25;font-family:'WalbaumGrotesk Text';-inkscape-font-specification:'WalbaumGrotesk Text';letter-spacing:0px;word-spacing:0px;stroke-width:0.26458299"
        xml:space="preserve"><tspan
-         style="font-size:2.82222px;stroke-width:0.264583"
+         style="font-size:2.82222009px;stroke-width:0.26458299"
          y="89.65155"
          x="110.20295"
          id="tspan1192"
-         sodipodi:role="line">(D'Aquont et al., 2001)</tspan></text>
+         sodipodi:role="line">(D'Aquino et al., 2001)</tspan></text>
   </g>
 </svg>
