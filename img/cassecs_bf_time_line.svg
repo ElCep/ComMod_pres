@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="157.21796mm"
+   height="33.994438mm"
+   viewBox="0 0 157.21796 33.994438"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="cassecs_bf_time_line.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.89085297"
+     inkscape:cx="297.46772"
+     inkscape:cy="499.52126"
+     inkscape:window-width="1665"
+     inkscape:window-height="1209"
+     inkscape:window-x="26"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-26.439961,-16.203899)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.665;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="M 26.439961,33.621329 H 181.29646"
+       id="path186" />
+    <circle
+       style="fill:#f00000;fill-opacity:1;stroke:#ffffff;stroke-width:0.446034;stroke-dasharray:none;stroke-opacity:1"
+       id="path1021"
+       cx="43.706566"
+       cy="33.41888"
+       r="2.3068197" />
+    <circle
+       style="fill:#f00000;fill-opacity:1;stroke:#ffffff;stroke-width:0.446034;stroke-dasharray:none;stroke-opacity:1"
+       id="path1021-3"
+       cx="136.56779"
+       cy="33.41888"
+       r="2.3068197" />
+    <circle
+       style="fill:#f09508;fill-opacity:1;stroke:#ffffff;stroke-width:0.446034;stroke-dasharray:none;stroke-opacity:1"
+       id="path1021-3-7"
+       cx="65.251831"
+       cy="33.41888"
+       r="2.3068197" />
+    <circle
+       style="fill:#f09508;fill-opacity:1;stroke:#ffffff;stroke-width:0.446034;stroke-dasharray:none;stroke-opacity:1"
+       id="path1021-3-7-5"
+       cx="106.08121"
+       cy="33.41888"
+       r="2.3068197" />
+    <circle
+       style="fill:#f09508;fill-opacity:1;stroke:#ffffff;stroke-width:0.446034;stroke-dasharray:none;stroke-opacity:1"
+       id="path1021-3-7-6"
+       cx="150.37366"
+       cy="33.41888"
+       r="2.3068197" />
+    <circle
+       style="fill:#f00000;fill-opacity:1;stroke:#ffffff;stroke-width:0.446034;stroke-dasharray:none;stroke-opacity:1"
+       id="path1021-6"
+       cx="79.803665"
+       cy="33.41888"
+       r="2.3068197" />
+    <g
+       id="g4067"
+       transform="translate(0,0.44549942)">
+      <circle
+         style="fill:#f00000;fill-opacity:1;stroke:#ffffff;stroke-width:0.446034;stroke-dasharray:none;stroke-opacity:1"
+         id="path1021-2"
+         cx="31.184999"
+         cy="47.223"
+         r="2.3068197" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="34.926502"
+         y="48.336365"
+         id="text3265"><tspan
+           sodipodi:role="line"
+           id="tspan3263"
+           style="font-size:4.23333px;stroke-width:0.264583"
+           x="34.926502"
+           y="48.336365">Nagréongo</tspan></text>
+    </g>
+    <g
+       id="g4062"
+       transform="translate(0,-0.44549942)">
+      <circle
+         style="fill:#f09508;fill-opacity:1;stroke:#ffffff;stroke-width:0.446034;stroke-dasharray:none;stroke-opacity:1"
+         id="path1021-3-7-5-1"
+         cx="76.329002"
+         cy="48.113998"
+         r="2.3068197" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="80.320961"
+         y="49.701496"
+         id="text4057"><tspan
+           sodipodi:role="line"
+           id="tspan4055"
+           style="font-size:4.23333px;stroke-width:0.264583"
+           x="80.320961"
+           y="49.701496">Koumbia</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="23.82522"
+       y="48.340034"
+       id="text4071"
+       transform="rotate(-30)"><tspan
+         sodipodi:role="line"
+         id="tspan4069"
+         style="stroke-width:0.264583"
+         x="23.82522"
+         y="48.340034">16 juin</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="41.02927"
+       y="58.272797"
+       id="text4075"
+       transform="rotate(-30)"><tspan
+         sodipodi:role="line"
+         id="tspan4073"
+         style="stroke-width:0.264583"
+         x="41.02927"
+         y="58.272797">11 juillet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="54.177101"
+       y="65.863701"
+       id="text4079"
+       transform="rotate(-30)"><tspan
+         sodipodi:role="line"
+         id="tspan4077"
+         style="stroke-width:0.264583"
+         x="54.177101"
+         y="65.863701">14 juillet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="77.228943"
+       y="79.172684"
+       id="text4083"
+       transform="rotate(-30)"><tspan
+         sodipodi:role="line"
+         id="tspan4081"
+         style="stroke-width:0.264583"
+         x="77.228943"
+         y="79.172684">11 Aout</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="103.33514"
+       y="94.245102"
+       id="text4087"
+       transform="rotate(-30)"><tspan
+         sodipodi:role="line"
+         id="tspan4085"
+         style="stroke-width:0.264583"
+         x="103.33514"
+         y="94.245102">1er stepembre</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="116.6701"
+       y="101.85581"
+       id="text4091"
+       transform="rotate(-30)"><tspan
+         sodipodi:role="line"
+         id="tspan4089"
+         style="stroke-width:0.264583"
+         x="116.6701"
+         y="101.85581">5 setpetmbre</tspan></text>
+  </g>
+</svg>
