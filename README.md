@@ -1,3 +1,3 @@
-You can visualize the reveal.js prez here : https://rawcdn.githack.com/ElCep/ComMod_pres/6002235a2bbe22ccae573bee6377c822e5e4a05a/index.html#/
+You can visualize the reveal.js prez here : https://rawcdn.githack.com/ElCep/ComMod_pres/6d2eeb026ea04219c71b78c71429b635fca49d08/index.html
 
 
